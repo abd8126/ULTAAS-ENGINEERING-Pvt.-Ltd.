@@ -1,0 +1,14 @@
+#header{
+    display: flex;
+    flex-direction: row;
+    max-width: fit-content;
+}
+
+.heading span{
+    color: maroon;
+    font-size: 18px;
+    display: block;
+    margin-top: 5px;
+    font-weight: 500;
+    margin-right: 10px;
+}
